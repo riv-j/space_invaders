@@ -13,7 +13,7 @@ function Ship() {
     }
 
     this.move = function(dir) {
-        this.x += this.xdir*5
+        this.x += this.xdir*2
     }
 
 }
