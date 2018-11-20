@@ -1,4 +1,4 @@
-function Flower(x, y) {
+    function Flower(x, y) {
     this.x = x
     this.y = y
     this.r = 30
@@ -27,6 +27,8 @@ function Flower(x, y) {
 
     this.explode = function() {
         this.toDelete = true
+        
     }
 
+    
 }
