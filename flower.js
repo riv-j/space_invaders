@@ -27,7 +27,6 @@
 
     this.explode = function() {
         this.toDelete = true
-        
     }
 
     
